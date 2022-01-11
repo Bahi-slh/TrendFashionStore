@@ -1,0 +1,44 @@
+[
+    {
+        "id": 200,
+        "imageUri": "https://i.ibb.co/9VcjzH9/dresses-1.jpg",
+        "name": "Festive Dress",
+        "priceOne": 120,
+        "priceTwo": "$180"
+    },
+    {
+        "id": 201,
+        "imageUri": "https://i.ibb.co/wy39s61/dresses-2.jpg",
+        "name": "Maxi Dress",
+        "priceOne": 180,
+        "priceTwo": null
+    },
+    {
+        "id": 202,
+        "imageUri": "https://i.ibb.co/9VcjzH9/dresses-1.jpg",
+        "name": "Fida Dress",
+        "priceOne": 80,
+        "priceTwo": null
+    },
+    {
+        "id": 203,
+        "imageUri": "https://i.ibb.co/XWLyK9F/dresses-4.png",
+        "name": "Coloured Dress",
+        "priceOne": 280,
+        "priceTwo": null
+    },
+    {
+        "id": 204,
+        "imageUri": "https://img.ltwebstatic.com/images3_pi/2021/03/05/161492821441e9e6bb1376146483fc41767f01c5a6_thumbnail_900x.webp",
+        "name": "Puff Dress",
+        "priceOne": 130,
+        "priceTwo": null
+    },
+    {
+        "id": 205,
+        "imageUri": "https://img.ltwebstatic.com/images3_pi/2020/04/09/15863955991572fab77330e463d2a206001e1fec81_thumbnail_900x.webp",
+        "name": "Cutout Dress",
+        "priceOne": 250,
+        "priceTwo": null
+    }
+]

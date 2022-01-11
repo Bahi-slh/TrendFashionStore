@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "name": "Womens",
+    "imageUri": "https://i.ibb.co/1sSBSd8/women-fashion.jpg",
+    "titleFirst": "Womens",
+    "titleSecond": "Fashion",
+    "subTitle": "Summer Specials!"
+    },
+    {
+    "id": 2,
+    "name": "Mens",
+    "imageUri": "https://i.ibb.co/MPb42Jy/men-fashion.jpg",
+    "titleFirst": "Mens",
+    "titleSecond": "Fashion",
+    "subTitle": "Latest trends!"
+    },
+    {
+    "id": 3,
+    "name": "Kids",
+    "imageUri": "https://i.ibb.co/QY4XKn2/kids-fashion.jpg",
+    "titleFirst": "Kids",
+    "titleSecond": "Fashion",
+    "subTitle": "Kids Fashion!"
+    }
+]
